@@ -1,14 +1,14 @@
 body {
-    background-color: rgb(22, 22, 22);
+    background-color: rgb(50, 0, 50);
     color: linen;
     font-size: 150%;
     line-height: 1.4;
 }
 
 h1{
-    margin-top:0px;
-    margin-bottom: 10px;
-    border-bottom: 1px solid #AEB7A7;
+    margin-top:6px;
+    margin-bottom: 60px;
+    border-bottom: 3px solid #AEB7A7;
 }
 
 h3{
@@ -30,7 +30,7 @@ a {
 }
 
 a:visited {
-    color: rgb(159, 192, 128);
+    color: rgb(200, 70, 200);
     text-decoration: none;
 }
 
@@ -48,7 +48,7 @@ img{
     width:70%;
     color: white;
     font-size: 110%;
-    background:gray;
+    background:purple;
     padding: 4px;
     border:1px solid white;
 }
@@ -56,7 +56,7 @@ img{
 .button {
     background: white;
     font-size: 110%;
-    color:gray;
+    color:purple;
     padding: 4px;
     border:2px solid white;
 }
