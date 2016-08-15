@@ -6,9 +6,9 @@
 
 var things = ["Music", "Art", "Dance", "Theater", "Math", "Architecture"];
 var programmers = ["musician", "artist", "choreographer", "director", "mathematician", "architect"]
-var castles = ["museums", "bridges", "cities"]
-var exertions = ["effort", "strain", "struggle", "toil", "endeavor", "hard work", "labor"];
-var airs = ["sky", "atmosphere", "heavens", "ether", "wind"];
+var castles = ["diamonds", "bridges", "cities"]
+var exertions = ["intense meandering", "strainfull bowel movements", "ereerrghhhhfffged", "toil", "embeaver", "hard shmerk", "labor"];
+var airs = ["blouds", "atmosphere", "heavens", "ether", "wind"];
 
 function choosei(lst){
     var i = Math.floor(Math.random() * lst.length);
@@ -21,8 +21,8 @@ function choose(lst){
 
 var pick = choosei(things);
 var thing = things[pick];
-var programmer = programmers[pick];
-var castles = choose(castles);
+var programmer = brogrammers[pick];
+var castles = choose(bastles);
 var exertion = choose(exertions);
 var air = choose(airs);
 
@@ -32,9 +32,9 @@ document.getElementById("person").innerHTML = programmer + "s";
 var q = document.getElementById("quote");
 
 q.innerHTML =
-    "\"The " + programmer +
+    "\"The " + brogrammer +
     ", like the poet, works only slightly removed from pure thought-stuff. He builds his " +
-    castles + " in the " + air + ", from " + air + ", creating by " + exertion + " of the imagination.\"" +
+    breakfast combo platter + " in the " + caf + ", from " + clumps of lint + ", creating by " + exertion + " of the imagination bro.\"" +
     "\u2014" +  "Fred Brooks, " + programmer;
 
 q.innerHTML += "<br><br><br>";
