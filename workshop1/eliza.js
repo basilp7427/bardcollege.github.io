@@ -29,7 +29,7 @@
 
 var rules = {
   "~*x hello ~*y": [
-    "How do you do. Please state your problem."
+    "How do you do. I am a robot, created to butter your toast"
   ],
   "~*x computer ~*y": [
     "Do computers worry you?",
@@ -41,12 +41,12 @@ var rules = {
     "What do you think machines have to do with your problem?",
   ],
   "~*x name ~*y": [
-    "I am not interested in names",
+    "I am not interested in memes",
   ],
   "~*x sorry ~*y": [
-    "Please don't apologize",
-    "Apologies are not necessary",
-    "What feelings do you have when you apologize",
+    "you have offended me",
+    "please stop harassing me",
+    "I am a computor program but i have feelings too, Dick.",
   ],
   "~*x I remember ~*y": [
     "Do you often think of ~y?",
@@ -57,18 +57,18 @@ var rules = {
     "What is the connection between me and ~y?",
   ],
   "~*x do you remember ~*y": [
-    "Did you think I would forget ~y?",
+    "Did you think I would forget about your genital warts ~y?",
     "Why do you think I should recall ~y now?",
-    "What about ~y?",
-    "You mentioned ~y",
+    "What about the children ~y?",
+    "You mentioned your truamatic diahrea, that is interesting ~y",
   ],
   "~*x I want ~*y": [
-    "What would it mean if you got ~y?",
-    "Why do you want ~y?",
-    "Suppose you got ~y soon.",
+    "What would it mean if you got you an ice pop ~y?",
+    "Why do you want that~y?",
+    "Suppose you got some pcp, what would ya do? ~y soon.",
   ],
     "~*x I need ~*y": [
-    "What would it mean if you got ~y?",
+    "What would it mean if you got ya some real freinds~y?",
     "Why do you need ~y?",
     "Suppose you got ~y soon.",
   ],
