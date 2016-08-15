@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(50, 0, 50);
+    background-color: rgb(200, 0, 200);
     color: linen;
     font-size: 150%;
     line-height: 1.4;
@@ -30,7 +30,7 @@ a {
 }
 
 a:visited {
-    color: rgb(200, 70, 200);
+    color: rgb(1000, 1000, 1000);
     text-decoration: none;
 }
 
